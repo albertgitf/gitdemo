@@ -1,6 +1,6 @@
 Hello Git!
 Update Java
-Hello Git!
+Hello Git!  Hot-fix Success!
 Hello Git!
 Hello Git!
 Hello Git!
