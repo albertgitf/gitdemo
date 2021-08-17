@@ -8,7 +8,7 @@ Hello Git!
 Hello Git!
 Hello Git!  bug1修复完成
 Hello Git!  bug2修复完成
-Hello Git!
+Hello Git!  bug3修复完成
 Hello Git!
 Hello Git!
 Hello Git!
