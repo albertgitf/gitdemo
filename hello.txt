@@ -6,7 +6,7 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-Hello Git!
+Hello Git!  bug1修复完成
 Hello Git!
 Hello Git!
 Hello Git!
